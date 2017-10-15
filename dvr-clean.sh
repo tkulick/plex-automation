@@ -1,5 +1,5 @@
 #!/bin/bash
 # Migrate DVR content every night to NAS
 
-mv /var/lib/plexmediaserver/DVR/* /mnt/Video/
+mv /var/lib/plexmediaserver/Library/DVR/* /mnt/Video/
 
